@@ -1,4 +1,4 @@
 # This file generates the GitHub Actions matrix for firmware builds.
 include:
-  - board: seeeduino_xiao_ble_sense
+  - board: seeeduino_xiao_ble
     shield: adeptble
