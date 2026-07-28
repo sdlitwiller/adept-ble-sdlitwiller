@@ -1,7 +1,7 @@
 manifest:
   remotes:
     - name: zmkfirmware
-      url-base: https://github.com
+      url-base: https://github.com/zmkfirmware
     # Add the AdeptBLE shield repository link here:
     - name: bildermankawasaki
       url-base: https://github.com/BildermanKawasaki
